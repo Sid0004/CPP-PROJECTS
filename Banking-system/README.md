@@ -1,7 +1,9 @@
-Siddhant's Banking System
+**Siddhant's Banking System**
+
 Siddhant's Banking System is a console-based banking system built in C++ that allows administrators and users to manage accounts. It supports functionalities such as creating accounts, depositing and withdrawing money, changing PINs, balance inquiries, and more. The system supports both single and joint account holders, with different account types like Savings and Current accounts.
 
-Features
+**Features**
+
 Administrator Menu:
 View total number of accounts.
 View details of all accounts.
