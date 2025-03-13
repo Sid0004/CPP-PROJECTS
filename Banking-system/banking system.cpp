@@ -8,7 +8,7 @@ class Account {
 public:
     string name;
     string jointName;
-    int balance;
+    int Balance;
     int accountNumber;
     string accountType;
     string pin;
